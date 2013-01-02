@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/fusion94/ArduinoExamples/raw/master/oslogos.png "Open Source Logos")
+
 Arduino Examples
 ===============
 
