@@ -9,7 +9,7 @@
     * Licensed under the terms of the Apache Public License
     * Please see the LICENSE included with this distribution for details.
 
- */
+*/
 
 const int LED = 13; // LED connected to digital pin 13
                     
