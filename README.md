@@ -4,8 +4,8 @@
 Arduino Examples
 ===============
 
-These tutorials offers a decent introduction to the open-source electronics prototyping platform Arduino. To use the 
-introductory examples, all you need is a USB Arduino, USB A-B cable, and few other parts.
+These tutorials offer a decent introduction to the open-source electronics prototyping platform Arduino. To use the 
+introductory examples, all you need is a USB Arduino, USB A-B cable, and a few other parts.
 
 Every tutorial will include documents from [Fritzing](http://www.fritzing.org) that will assist you while you go through
 these tutorials.
