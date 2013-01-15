@@ -1,15 +1,17 @@
 /*
-   Example 02: Turn on LED while the button is pressed
+ * Arduino Examples
+ * https://github.com/fusion94/ArduinoExamples
+    
+ * Example 02: Turn on LED while the button is pressed
    
-   The circuit:
+ * The circuit:
     * Positive output of LED to digital pin 13
     * GND of LED to ground
+ 
+ * Copyright 2011-2013, http://fusion94.org
+ * Licensed under the Mozilla Public License Version 2.0
 
-    * Copyright (c) 2012 by Tony Guntharp. All Rights Reserved.
-    * Licensed under the terms of the Apache Public License
-    * Please see the LICENSE included with this distribution for details.
-
-*/
+ */
  
 const int LED = 13;   // the pin for the LED
 const int BUTTON = 7; // the input pin where the

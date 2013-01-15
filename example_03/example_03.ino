@@ -1,7 +1,15 @@
-// Example 03A: Turn on LED when the button is pressed 
-// and keep it on after it is released 
-//
-// Copy and paste this example into an empty Arduino sketch
+/*
+ * Arduino Examples
+ * https://github.com/fusion94/ArduinoExamples
+    
+ * Example 03: Turn on LED when the button is pressed and keep it on after it is released
+   
+ * The circuit:
+ 
+ * Copyright 2011-2013, http://fusion94.org
+ * Licensed under the Mozilla Public License Version 2.0
+
+ */
 
 #define LED  13  // the pin for the LED 
 #define BUTTON 7 // the input pin where the

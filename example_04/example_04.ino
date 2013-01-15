@@ -1,5 +1,15 @@
-// Example 04: Fade an LED in and out like on
-// a sleeping Apple computer
+/*
+ * Arduino Examples
+ * https://github.com/fusion94/ArduinoExamples
+    
+ * Example 04: Fade an LED in and out like on a sleeping Apple computer
+   
+ * The circuit:
+ 
+ * Copyright 2011-2013, http://fusion94.org
+ * Licensed under the Mozilla Public License Version 2.0
+
+ */
 
 const int LED = 9; // the pin for the LED
 int i = 0;         // Weâ€™ll use this to count up and down

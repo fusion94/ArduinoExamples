@@ -1,15 +1,17 @@
 /*
-   Example 01 : Blinking LED
+ * Arduino Examples
+ * https://github.com/fusion94/ArduinoExamples
+    
+ * Example 01 : Blinking LED
    
-   The circuit:
+ * The circuit:
     * Positive output of LED to digital pin 13
     * GND of LED to ground
+ 
+ * Copyright 2011-2013, http://fusion94.org
+ * Licensed under the Mozilla Public License Version 2.0
 
-    * Copyright (c) 2012 by Tony Guntharp. All Rights Reserved.
-    * Licensed under the terms of the Apache Public License
-    * Please see the LICENSE included with this distribution for details.
-
-*/
+ */
 
 const int LED = 13; // LED connected to digital pin 13
                     
@@ -25,4 +27,3 @@ void loop()
   digitalWrite(LED, LOW);  // turns the LED off
   delay(500);             // waits for 1/2 a second
 }
-

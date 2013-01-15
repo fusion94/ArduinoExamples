@@ -1,7 +1,16 @@
-// Example 05: Turn on LED when the button is pressed
-// and keep it on after it is released
-// including simple de-bouncing.
-// If the button is held, brightness changes.
+/*
+ * Arduino Examples
+ * https://github.com/fusion94/ArduinoExamples
+    
+ * Example 5: Turn on LED when the button is pressed and keep it on after it is released including simple de-bouncing.
+ *            If the button is held, brightness changes.
+   
+ * The circuit:
+ 
+ * Copyright 2011-2013, http://fusion94.org
+ * Licensed under the Mozilla Public License Version 2.0
+
+ */
 
 const int LED = 9;    // the pin for the LED
 const int BUTTON = 7; // input pin of the pushbutton
@@ -65,4 +74,3 @@ void loop() {
     analogWrite(LED, 0); // turn LED OFF
   }
 }
-
