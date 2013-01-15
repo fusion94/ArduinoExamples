@@ -1,4 +1,3 @@
-
 ![alt text](https://github.com/fusion94/ArduinoExamples/raw/master/oslogos.png "Open Source Logos")
 
 Arduino Examples
@@ -13,3 +12,5 @@ these tutorials.
 + Example 01: Blinking LED
 + Example 02: Turn on LED while the button is pressed
 + Example 03: Keep LED on after the button is released
++ Example 04: Fade an LED in and out like on a sleeping Apple computer
++ Example 05: Turn on LED when the button is pressed and keep it on after it is released
