@@ -1,6 +1,6 @@
 ![alt text](https://github.com/fusion94/ArduinoExamples/raw/master/oslogos.png "Open Source Logos")
 
-Great Arduino Examples
+Really Great Arduino Examples
 ======================
 
 These tutorials offer an introduction to the open-source electronics prototyping platform Arduino. To use the 
