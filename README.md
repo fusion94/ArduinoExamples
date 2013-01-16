@@ -1,7 +1,7 @@
 ![alt text](https://github.com/fusion94/ArduinoExamples/raw/master/oslogos.png "Open Source Logos")
 
-Arduino Examples
-===============
+Great Arduino Examples
+======================
 
 These tutorials offer an introduction to the open-source electronics prototyping platform Arduino. To use the 
 introductory examples, all you need is a USB Arduino, USB A-B cable, and a few other parts.
